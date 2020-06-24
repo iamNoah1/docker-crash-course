@@ -1,0 +1,2 @@
+# docker crash course 
+This repo is meant to serve as beginners crash course for docker. It contains 2 applications that can be run inside docker containers. Each app has its own readme with some instructions on how to use them. There is also a little slide deck that can be found [here](https://de.slideshare.net/nispas/docker-crash-course).
