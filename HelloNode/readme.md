@@ -1,12 +1,11 @@
-# hello world node application with docker 
+# Hello World Node application with docker 
 
 ## Run without docker
 * `npm install`
 * `npm start`
 
-## Run with docker
-* `docker build -t <username>/hellonode .`
-* `docker run -p 3000:3000 iamnoah1/hellonode`
-
 ## endpoints
 * `http://localhost:3000/`
+
+## Run with Docker 
+* TODO: Create a Docker file and run the app with docker
