@@ -12,7 +12,7 @@
 * `docker run -p 3000:3000 iamnoah1/nodemongoapi`
 
 ## Run with docker compose
-* 
+* TODO: create a docker-compose file which runs both, mongodb and the api 
 
 ## endpoints
 * Get todos `http://localhost:3000/todos`
